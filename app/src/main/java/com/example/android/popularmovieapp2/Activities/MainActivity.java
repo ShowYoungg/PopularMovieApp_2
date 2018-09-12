@@ -26,6 +26,7 @@ import android.widget.Toast;
 import com.example.android.popularmovieapp2.Adapters.DataObjectAdapter;
 import com.example.android.popularmovieapp2.Adapters.ImageGridAdapter;
 import com.example.android.popularmovieapp2.Adapters.MovieJsonUtils;
+import com.example.android.popularmovieapp2.BuildConfig;
 import com.example.android.popularmovieapp2.Database.AppDatabase;
 import com.example.android.popularmovieapp2.Database.MainViewModel;
 import com.example.android.popularmovieapp2.Objects.DataObject;
@@ -58,7 +59,7 @@ public class MainActivity extends AppCompatActivity implements LoaderManager.Loa
     public static List<DataObject> favouriteMovies;
     private static final String THE_MOVIEDB_URL = "https://api.themoviedb.org/3/movie/";
     private static final String MOVIE_QUERY = "api_key";
-    private static final String API_KEY = "6cc4f47bd4a64e0117e157b79072ae37";
+    private static final String API_KEY = "";
     private String SEARCH_QUERY = "popular";
     ProgressBar mLoadingIndicator;
     AppDatabase mDb;

@@ -95,7 +95,7 @@ public class DetailActivity extends AppCompatActivity {
     private static final String IMAGE_URL = "http://image.tmdb.org/t/p/w185/";
     private static final String THE_MOVIEDB_URL2 = "https://api.themoviedb.org/3/movie/";
     private static final String MOVIE_QUERY2 = "api_key";
-    private static final String API_KEY2 = "6cc4f47bd4a64e0117e157b79072ae37";
+    private static final String API_KEY2 = "";
     private static String SEARCH_QUERY2 = "videos";
     public static int movieId;
     Button viewReviews;
