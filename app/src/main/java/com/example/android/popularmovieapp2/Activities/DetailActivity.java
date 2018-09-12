@@ -98,11 +98,8 @@ public class DetailActivity extends AppCompatActivity {
     private static final String API_KEY2 = "";
     private static String SEARCH_QUERY2 = "videos";
     public static int movieId;
-    Button viewReviews;
     Button favourite;
     String movieRating;
-    private static final int YOUTUBE_SEARCH_LOADER = 23;
-    private static final int REVIEW_SEARCH_LOADER = 24;
     File file;
     String name;
     String overview;
@@ -188,7 +185,7 @@ public class DetailActivity extends AppCompatActivity {
         release_date = findViewById(R.id.release_date);
         backdrop_poster = findViewById(R.id.backdrop_poster);
 
-        viewReviews = findViewById(R.id.review_button);
+
         favourite = findViewById(R.id.favourite_button);
         trailerHeader = findViewById(R.id.trailer_header);
         reviewHeader = findViewById(R.id.review_heading);
