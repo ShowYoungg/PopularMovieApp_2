@@ -1,7 +1,7 @@
 # Udacity Android Developer Nanodegree
 
 # Popular Movie App Stage 2
-This is the third project out of the 10 in Udacity Android Developer Nanodegree.
+This is the third project in Udacity Android Developer Nanodegree.
 This serves as an evidence of great mastery of RecyclerView and Networking in Android, Android Architecture Components, SQLite among othe
 Popular Movie App developed with THEMOVIEDB API which shows list of movies either by popularity or top rated and Favourite which is saved in database using Room with RecyclerView with
 GridLayoutManager.
