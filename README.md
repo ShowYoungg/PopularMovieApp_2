@@ -6,6 +6,9 @@ This serves as an evidence of great mastery of RecyclerView and Networking in An
 Popular Movie App developed with THEMOVIEDB API which shows list of movies either by popularity or top rated and Favourite which is saved in database using Room with RecyclerView with
 GridLayoutManager.
 
+# Screenshots
+![Image](https://github.com/ShowYoungg/PopularMovieApp_2/blob/master/Aug-11-2018_18-12-41.gif)
+
 # Demonstrated Competency
 Mastery of RecyclerView and Adapter,
 JSON Parsing and general Networking in Android,
