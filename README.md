@@ -8,7 +8,9 @@ GridLayoutManager.
 
 # Screenshots
 ![Image](https://github.com/ShowYoungg/PopularMovieApp_2/blob/master/Aug-11-2018_18-12-41.gif) ![Image](
-https://github.com/ShowYoungg/PopularMovieApp_2/blob/master/Screenshot_2018-11-22-07-48-53.png) 
+https://github.com/ShowYoungg/PopularMovieApp_2/blob/master/Screenshot_2018-11-22-07-48-53.png) ![Image](
+https://github.com/ShowYoungg/PopularMovieApp_2/blob/master/Screenshot_2018-11-22-07-49-31.png)
+
 # Demonstrated Competency
 Mastery of RecyclerView and Adapter,
 JSON Parsing and general Networking in Android,
