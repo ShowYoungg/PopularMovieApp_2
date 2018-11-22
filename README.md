@@ -12,10 +12,11 @@ https://github.com/ShowYoungg/PopularMovieApp_2/blob/master/Screenshot_2018-11-2
 https://github.com/ShowYoungg/PopularMovieApp_2/blob/master/Screenshot_2018-11-22-07-49-31.png)
 
 # Demonstrated Competency
-Mastery of RecyclerView and Adapter,
-JSON Parsing and general Networking in Android,
-Mastery of Intents,
-UI/UX,
+** Mastery of RecyclerView and Adapter,
+** JSON Parsing and general Networking in Android,
+** Mastery of Intents,
+** UI/UX,
+** Room Database (saved movies can be viewed without internet)
 Working with API,
 Android Architecture Components,
 Lifecycle and Data Caching using LiveData and ViewModel,
