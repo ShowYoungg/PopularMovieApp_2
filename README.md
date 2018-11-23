@@ -7,7 +7,7 @@ Popular Movie App developed with THEMOVIEDB API which shows list of movies eithe
 GridLayoutManager.
 
 # API KEY Required
-Sign up for an api key at the.   and insert your api key in the MainActivity class on line 62 and DetailActivity class on line 97 like private static final String API_KEY = " api key ";
+Sign up for an api key at https://developers.themoviedb.org/3/getting-started/introduction and insert your api key in the MainActivity class on line 62 and DetailActivity class on line 97 like private static final String API_KEY = " api key ";
 
 # Screenshots
 ![Image](https://github.com/ShowYoungg/PopularMovieApp_2/blob/master/Aug-11-2018_18-12-41.gif) ![Image](
