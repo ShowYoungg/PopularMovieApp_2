@@ -1,4 +1,4 @@
-# Udacity Android Developer Nanodegree
+# Udacity Android Developer Nanodegree Term 1
 
 # Popular Movie App Stage 2
 This is the third project in Udacity Android Developer Nanodegree.
